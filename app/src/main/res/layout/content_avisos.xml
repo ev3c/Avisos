@@ -9,13 +9,4 @@
     tools:context="com.android.ev3c.avisos.AvisosActivity"
     tools:showIn="@layout/activity_avisos">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="@+id/content_avisos"
-        app:layout_constraintLeft_toLeftOf="@+id/content_avisos"
-        app:layout_constraintRight_toRightOf="@+id/content_avisos"
-        app:layout_constraintTop_toTopOf="@+id/content_avisos" />
-
 </android.support.constraint.ConstraintLayout>
