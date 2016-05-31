@@ -31,7 +31,7 @@ public class AvisosActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // REM FROM LENOVO
-        // REM FROM ASUS
+        // REM FROM ASUS 00:54
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_avisos, menu);
         return true;
